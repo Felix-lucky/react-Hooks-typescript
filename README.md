@@ -1,4 +1,4 @@
-# react-Hooks-typescript
+# React-Hooks-Typescript
 
 ## `npm install`
 
