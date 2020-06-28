@@ -1,0 +1,16 @@
+.container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 50px;
+  width: 100%;
+  align-items: center;
+  background-color: rgba(0, 0, 0, .8);
+  h2 {
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+  }
+}

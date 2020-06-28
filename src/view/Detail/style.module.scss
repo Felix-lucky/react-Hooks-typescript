@@ -1,0 +1,37 @@
+.container {
+  width: 60%;
+  margin:20px auto;
+  .title {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-weight: 500;
+    color: #333;
+    font-size: 24px;
+    b {
+      font-weight: 500;
+      color: #999;
+      font-size: 24px;
+    }
+  }
+  .img {
+    height: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    img {
+      max-height: 100%;
+    }
+  }
+  .info {
+    font-size: 16px;
+    color: #333;
+    line-height: 24px;
+    span {
+      color: #666;
+    }
+  }
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
